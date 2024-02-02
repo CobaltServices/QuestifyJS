@@ -1,5 +1,3 @@
-// src/inputHandler.js
-
 class InputHandler {
   constructor() {
     this.keyPressed = null;
