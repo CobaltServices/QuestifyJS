@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Explore the Forest",
+    "description": "Roam through the magical forest and discover its secrets.",
+    "objectives": [
+      "Visit the Ancient Tree",
+      "Collect 5 Enchanted Flowers"
+    ],
+    "rewards": {
+      "experience": 100,
+      "gold": 50
+    }
+  },
+  {
+    "name": "Defeat the Goblin King",
+    "description": "Confront the fearsome Goblin King and restore peace to the realm.",
+    "objectives": [
+      "Find the Goblin King's Lair",
+      "Defeat the Goblin King in battle"
+    ],
+    "rewards": {
+      "experience": 200,
+      "gold": 100
+    }
+  }
+]
